@@ -1,0 +1,26 @@
+<annotation>
+	<folder>020_GreenLays</folder>
+	<filename>WhatsApp Image 2023-04-08 at 7.22.45 PM.jpeg</filename>
+	<path>C:\Project\TFOD\TFODCourse\Tensorflow\workspace\images\collectedimages\020_GreenLays\WhatsApp Image 2023-04-08 at 7.22.45 PM.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>020_GreenLays</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>372</xmin>
+			<ymin>477</ymin>
+			<xmax>880</xmax>
+			<ymax>1203</ymax>
+		</bndbox>
+	</object>
+</annotation>

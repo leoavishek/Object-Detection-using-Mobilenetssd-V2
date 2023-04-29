@@ -1,0 +1,26 @@
+<annotation>
+	<folder>020_BlueLays</folder>
+	<filename>WhatsApp Image 2023-04-08 at 7.22.53 PM (1).jpeg</filename>
+	<path>C:\Project\TFOD\TFODCourse\Tensorflow\workspace\images\collectedimages\020_BlueLays\WhatsApp Image 2023-04-08 at 7.22.53 PM (1).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>020_BlueLays</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>456</ymin>
+			<xmax>857</xmax>
+			<ymax>1222</ymax>
+		</bndbox>
+	</object>
+</annotation>
