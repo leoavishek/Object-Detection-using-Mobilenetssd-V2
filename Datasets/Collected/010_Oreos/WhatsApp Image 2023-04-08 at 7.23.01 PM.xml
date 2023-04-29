@@ -1,0 +1,26 @@
+<annotation>
+	<folder>010_Oreos</folder>
+	<filename>WhatsApp Image 2023-04-08 at 7.23.01 PM.jpeg</filename>
+	<path>C:\Project\TFOD\TFODCourse\Tensorflow\workspace\images\collectedimages\010_Oreos\WhatsApp Image 2023-04-08 at 7.23.01 PM.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>010_Oreos</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>710</xmin>
+			<ymin>339</ymin>
+			<xmax>951</xmax>
+			<ymax>887</ymax>
+		</bndbox>
+	</object>
+</annotation>
