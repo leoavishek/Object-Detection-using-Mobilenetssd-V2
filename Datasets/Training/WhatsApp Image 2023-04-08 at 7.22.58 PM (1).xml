@@ -1,0 +1,26 @@
+<annotation>
+	<folder>010_Bourbon</folder>
+	<filename>WhatsApp Image 2023-04-08 at 7.22.58 PM (1).jpeg</filename>
+	<path>C:\Project\TFOD\TFODCourse\Tensorflow\workspace\images\collectedimages\010_Bourbon\WhatsApp Image 2023-04-08 at 7.22.58 PM (1).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>010_Bourbon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>717</xmin>
+			<ymin>482</ymin>
+			<xmax>1049</xmax>
+			<ymax>1003</ymax>
+		</bndbox>
+	</object>
+</annotation>
