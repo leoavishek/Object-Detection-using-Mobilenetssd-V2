@@ -1,0 +1,26 @@
+<annotation>
+	<folder>010_Kurkure</folder>
+	<filename>WhatsApp Image 2023-04-08 at 7.22.37 PM.jpeg</filename>
+	<path>C:\Project\TFOD\TFODCourse\Tensorflow\workspace\images\collectedimages\010_Kurkure\WhatsApp Image 2023-04-08 at 7.22.37 PM.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>010_Kurkure</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>341</xmin>
+			<ymin>550</ymin>
+			<xmax>927</xmax>
+			<ymax>1360</ymax>
+		</bndbox>
+	</object>
+</annotation>
